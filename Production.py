@@ -1,3 +1,6 @@
 print ('Feature 1')
 print ('Feature 2')
 print ('Feature 3')
+print ('Local Feature 4')
+print ('Local Feature 5')
+print ('Local Feature 6')
